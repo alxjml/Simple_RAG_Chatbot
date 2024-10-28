@@ -1,0 +1,8 @@
+langchain-pinecone
+langchain-openai
+langchain
+openai
+langchain_community
+pymupdf
+streamlit
+bs4
